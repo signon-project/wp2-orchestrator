@@ -1,0 +1,6 @@
+[submodule "src/main/resources/signon-orchestrator-openapi"]
+	path = src/main/resources/signon-orchestrator-openapi
+	url = https://github.com/signon-project/wp2-orchestrator-openapi.git
+[submodule "src/main/resources/signon-orchestrator-asyncapi"]
+	path = src/main/resources/signon-orchestrator-asyncapi
+	url = https://github.com/signon-project/wp2-orchestrator-asyncapi.git
