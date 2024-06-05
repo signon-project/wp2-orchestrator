@@ -27,12 +27,12 @@ For further details please refer to public deliverable [D2.5 - Final release of 
         npm install -g @asyncapi/java-spring-template@0.18.3
         ```
 
-For further details about the configuration of the components please refer to [SignON Framework Docker Compose](https://github.com/signon-project/wp2-framework-docker-compose).
+For further details about the configuration of the components please refer to [SignON Framework Docker Compose](https://github.com/project/wp2-framework-docker-compose).
 
 ### Installation
 - Clone this repository with recursive option:  
     ```
-    git clone --recursive git@github.com:signon-project/wp2-signon-orchestrator/signon-orchestrator.git
+    git clone --recursive git@github.com:signon-project/wp2-orchestrator.git
     ```
 
 - Compile and generate code:  
@@ -80,7 +80,7 @@ For further details about the configuration of the components please refer to [S
 
 ### Documentation
 The following technical documentation is available:
-* SignON Orchestrator OpenAPI ([link](https://github.com/signon-project/wp2-signon-orchestrator-openapi/tree/master/docs/markdown))
+* SignON Orchestrator OpenAPI ([link](https://github.com/signon-project/wp2-orchestrator-openapi/tree/master/docs/markdown))
 * Errors Documentation ([link](/docs/Errors.md))
 
 #### Other details
